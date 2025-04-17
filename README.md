@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm Rahul
 
-<!--
-**codebyRPS/codebyRPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m a Full-Stack MERN Developer
+- 🔭 Currently persuing on an AI-powered chat application using Gemini.
+- 👯 Looking to collaborate on exciting frontend/backend projects
+- 📫 Reach me at 2005rp115@gmail.com
 
-Here are some ideas to get you started:
+## 🧱 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
+![Google Gemini AI](https://img.shields.io/badge/-Gemini%20AI-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
+...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
