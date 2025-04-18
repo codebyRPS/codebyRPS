@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rahul
+### Hi there 👋 I'm Ravi Prakash
 
 - 🌱 I’m a Full-Stack MERN Developer
 - 🔭 Currently persuing on an AI-powered chat application using Gemini.
