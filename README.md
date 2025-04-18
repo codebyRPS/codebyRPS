@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ravi Prakash
 
 - 🌱 I’m a Full-Stack MERN Developer
-- 🔭 Currently persuing on an AI-powered chat application using Gemini.
+- 🔭 Currently working on an AI-powered chat application using Gemini.
 - 👯 Looking to collaborate on exciting frontend/backend projects
 - 📫 Reach me at 2005rp115@gmail.com
 
